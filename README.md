@@ -32,7 +32,7 @@ Example :
 ```
 ## Crawler Flow
 
-![image](https://user-images.githubusercontent.com/39428898/207851206-24854c8b-fdc1-4ed8-af77-7600b322b09a.png)
+![image](https://user-images.githubusercontent.com/39428898/208601319-f509fb03-83f5-404c-9051-6ece2a8afa28.png)
 
 
 ## Limitation
@@ -42,5 +42,3 @@ This crawler is only example how to crawl data from Linkedin. This method work's
 ## Authors
 
 - [Haydar Miezanie](https://github.com/haydarmiezanie)
-
-s
