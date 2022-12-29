@@ -1,7 +1,7 @@
 
 # Read Me
 
-Glints Crawling is Crawler that aims data from Glints to xlsx, this scraper works in about 1 - 5 sec / page depends on the internet .
+Linkedin Crawling is Crawler that aims data from Linkedin to xlsx, this scraper works in about 1 - 5 sec / page depends on the internet .
 
 ## Run Locally
 
